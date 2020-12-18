@@ -117,7 +117,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal:
-        m_Texture: {fileID: 2800000, guid: 81ffbb4169ee1bd478a96b890f63e665, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3770a9c7ceaa74b4294d2749b7fe3822, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal0:
@@ -217,7 +217,7 @@ Material:
     - _DetailNormalMapScale: 0.5
     - _DissolveRate: 0.9
     - _DstBlend: 0
-    - _Emission: 0.25
+    - _Emission: 0.04
     - _EnableHeightBlend: 0
     - _EnableInstancedPerPixelNormal: 1
     - _EnvironmentReflections: 0
@@ -251,8 +251,8 @@ Material:
     - _Smoothness2: 0.5
     - _Smoothness3: 0.5
     - _SmoothnessTextureChannel: 0
-    - _SnowGloss: 0.08
-    - _SparkleMix: 0.58
+    - _SnowGloss: 0.05
+    - _SparkleMix: 0.73
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Stencil: 0
@@ -273,7 +273,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Vector2_7B6887A: {r: 50, g: 150, b: 1, a: 1}
+    - Vector2_7B6887A: {r: 40, g: 150, b: 1, a: 1}
     - Vector3_8E873D5D: {r: 1, g: 1, b: 0, a: 0}
     - _BASE_COLOR: {r: 0, g: 0, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
@@ -286,6 +286,6 @@ Material:
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _SubsurfaceColor: {r: 1, g: 1, b: 1, a: 1}
     - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
-    - _TrailColor_1: {r: 0.06892679, g: 0.1792453, b: 0.04142934, a: 1}
+    - _TrailColor_1: {r: 0.07241031, g: 0.12941177, b: 0.105882354, a: 1}
     - _TrailTiling: {r: 0.5, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
